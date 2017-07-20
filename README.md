@@ -56,4 +56,5 @@ SpringBoot快速搭建
 常规属性配置、日志配置、Profile配置、自定义starter pom
 </p>
 
-
+### 2017-2017040402：06-teach-bootcore<br>
+第六章《SpringBoot核心》教学源码
