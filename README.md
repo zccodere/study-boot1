@@ -58,3 +58,12 @@ SpringBoot快速搭建
 
 ### 2017-2017040402：06-teach-bootcore<br>
 第六章《SpringBoot核心》教学源码
+
+### 2017-2017040403：07-my-bootweb<br>
+第七章《SpringBoot的Web开发》学习源码
+<p>
+Thymeleaf模版引擎、注册Servlet、Filter、Listener、Tomcat配置、
+Favicon配置、WebSocket、基于Bootstrap和AngularJS的现代Web应用
+</p>
+
+
