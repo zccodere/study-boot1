@@ -31,4 +31,8 @@ Spring Aware、多线程、计划任务、条件注解@Conditinal、组合注解
 ### 2017-2017012701：03-teach-springadv<br>
 第三章《Spring高级话题》教学源码
 
-
+### 2017-2017040301：04-my-springmvcbase<br>
+第四章《SpringMVC基础》学习源码
+<p>
+Spring MVC常用注解、静态资源映射、拦截器配置、@ControllerAdvice、文件上传配置、服务器端推送技术
+</p>
