@@ -49,3 +49,11 @@ SpringBoot快速搭建
 ### 2017-2017040401：05-teach-bootbase<br>
 第五章《SpringBoot基础》教学源码
 
+### 2017-2017040402：06-my-bootcore<br>
+第六章《SpringBoot核心》学习源码
+<p>
+入口类和@SpringBootApplication、定制Banner、Spring Boot的配置文件、
+常规属性配置、日志配置、Profile配置、自定义starter pom
+</p>
+
+
