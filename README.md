@@ -28,3 +28,7 @@ Bean的Scope、Spring EL和资源调用、Bean的初始化和销毁、Profile、
 Spring Aware、多线程、计划任务、条件注解@Conditinal、组合注解与元注解、测试
 </p>
 
+### 2017-2017012701：03-teach-springadv<br>
+第三章《Spring高级话题》教学源码
+
+
