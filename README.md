@@ -40,4 +40,8 @@ Spring MVC常用注解、静态资源映射、拦截器配置、@ControllerAdvic
 ### 2017-2017040301：04-teach-springmvcbase<br>
 第四章《SpringMVC基础》教学源码
 
-
+### 2017-2017040401：05-my-bootbase<br>
+第五章《SpringBoot基础》学习源码
+<p>
+SpringBoot快速搭建 
+</p>

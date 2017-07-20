@@ -1,0 +1,6 @@
+server:
+  port: 9090
+  context-path: /helloboot
+book:
+  reader: zccoder
+  name: spring boot
