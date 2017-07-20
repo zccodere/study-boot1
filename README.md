@@ -13,3 +13,8 @@
 ### 2017-2017012501：01-teach-springbase<br>
 第一章《Spring基础》教学源码
 
+### 2017-2017012502：02-my-springusually<br>
+第二章《Spring常用配置》学习源码
+<p>
+Bean的Scope、Spring EL和资源调用、Bean的初始化和销毁、Profile、事件（Application Event）
+</p>
