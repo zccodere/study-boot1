@@ -66,4 +66,6 @@ Thymeleaf模版引擎、注册Servlet、Filter、Listener、Tomcat配置、
 Favicon配置、WebSocket、基于Bootstrap和AngularJS的现代Web应用
 </p>
 
+### 2017-2017040403：07-teach-bootweb<br>
+第七章《SpringBoot的Web开发》教学源码
 
