@@ -69,3 +69,9 @@ Favicon配置、WebSocket、基于Bootstrap和AngularJS的现代Web应用
 ### 2017-2017040403：07-teach-bootweb<br>
 第七章《SpringBoot的Web开发》教学源码
 
+### 2017-2017040701：08-my-bootdata<br>
+第八章《SpringBoot的数据访问》学习源码
+<p>
+Spring Data JPA、Spring Data REST、声明式事务、SrpingBoot缓存、
+SpringBoot访问MongoDB、SpringBoot访问Redis
+</p>
