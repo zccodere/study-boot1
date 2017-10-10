@@ -79,12 +79,18 @@ SpringBoot访问MongoDB、SpringBoot访问Redis
 ### 2017-2017040701：08-teach-bootdata<br>
 第八章《SpringBoot的数据访问》教学源码
 
-### 2017-20170092201：09-my-bootenterprise<br>
+### 2017-2017092201：09-my-bootenterprise<br>
 第九章《SpringBoot企业级开发》学习源码
 <p>
 SpringSecurity快速入门、SpringBatch快速入门、SpringBoot集成ActiveMQ、
 SpringBoot集成RabbitMQ、SpringIntegration快速入门
 </p>
 
-### 2017-20170092201：09-teach-bootenterprise<br>
+### 2017-2017092201：09-teach-bootenterprise<br>
 第九章《SpringBoot企业级开发》教学源码
+
+### 2017-2017101001：10-my-bootdevtest<br>
+第十章《SpringBoot开发部署与测试》学习源码
+<p>
+基于Docker部署、SpringBoot的测试
+</p>
