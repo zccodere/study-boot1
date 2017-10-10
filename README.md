@@ -94,3 +94,6 @@ SpringBoot集成RabbitMQ、SpringIntegration快速入门
 <p>
 基于Docker部署、SpringBoot的测试
 </p>
+
+### 2017-2017101001：10-teach-bootdevtest<br>
+第十章《SpringBoot开发部署与测试》教学源码
