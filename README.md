@@ -97,3 +97,9 @@ SpringBoot集成RabbitMQ、SpringIntegration快速入门
 
 ### 2017-2017101001：10-teach-bootdevtest<br>
 第十章《SpringBoot开发部署与测试》教学源码
+
+### 2017-2017101201：11-my-bootmonitor<br>
+第十一章《应用监控》学习源码
+<p>
+Actuator应用监控、通过SSH监控和管理应用
+</p>
