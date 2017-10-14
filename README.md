@@ -103,3 +103,6 @@ SpringBoot集成RabbitMQ、SpringIntegration快速入门
 <p>
 Actuator应用监控、通过SSH监控和管理应用
 </p>
+
+### 2017-2017101201：11-teach-bootmonitor<br>
+第十一章《应用监控》教学源码
