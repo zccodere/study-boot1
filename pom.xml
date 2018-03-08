@@ -17,6 +17,7 @@
         <module>ch2-usual</module>
         <module>ch3-higher</module>
         <module>ch4-mvc</module>
+        <module>ch5-boot</module>
     </modules>
 
     <build>
