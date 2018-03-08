@@ -11,3 +11,9 @@
 <p>
 依赖注入、Java配置、AOP
 </p>
+
+### 2017-2017012502：02-ch2-usual<br>
+第二章《Spring 常用配置》学习源码
+<p>
+Bean的Scope、Spring EL和资源调用、Bean的初始化和销毁、Profile、事件（Application Event）
+</p>
