@@ -36,7 +36,7 @@ Spring MVC 常用注解、静态资源映射、拦截器配置、@ControllerAdvi
 Spring Boot 快速搭建、入口类和@SpringBootApplication、定制Banner、Spring Boot 的配置文件
 </p>
 
-### 2017-2017040402：06-my-bootcore<br>
+### 2017-2017040402：06-ch6-core<br>
 第六章《Spring Boot 核心》学习源码
 <p>
 常规属性配置、Profile 配置、自定义 starter pom
