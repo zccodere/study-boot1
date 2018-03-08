@@ -17,3 +17,10 @@
 <p>
 Bean的Scope、Spring EL和资源调用、Bean的初始化和销毁、Profile、事件（Application Event）
 </p>
+
+### 2017-2017012701：03-ch3-higher<br>
+第三章《Spring 高级话题》学习源码
+<p>
+Spring Aware、多线程、计划任务、条件注解@Conditinal、组合注解与元注解、测试
+</p>
+

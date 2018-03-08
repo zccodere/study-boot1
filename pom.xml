@@ -15,6 +15,7 @@
     <modules>
         <module>ch1-base</module>
         <module>ch2-usual</module>
+        <module>ch3-higher</module>
     </modules>
 
     <build>
