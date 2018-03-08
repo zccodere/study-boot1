@@ -18,6 +18,7 @@
         <module>ch3-higher</module>
         <module>ch4-mvc</module>
         <module>ch5-boot</module>
+        <module>ch6-core</module>
     </modules>
 
     <build>
