@@ -6,6 +6,12 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * @title 启动类
+ * @describe 启动类及控制器
+ * @author zc
+ * @date 2017/04/04
+ **/
 @SpringBootApplication
 @RestController
 public class BootStart {
