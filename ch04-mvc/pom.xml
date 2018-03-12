@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ch4-mvc</artifactId>
+    <artifactId>ch04-mvc</artifactId>
     <packaging>war</packaging>
 
     <properties>
