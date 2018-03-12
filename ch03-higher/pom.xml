@@ -9,7 +9,7 @@
         <version>1.0.0-SNAPSHOT</version>
     </parent>
 
-    <artifactId>ch3-higher</artifactId>
+    <artifactId>ch03-higher</artifactId>
 
     <properties>
         <spring.boot.version>1.5.0.RELEASE</spring.boot.version>
