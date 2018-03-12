@@ -19,6 +19,7 @@
         <module>ch04-mvc</module>
         <module>ch05-boot</module>
         <module>ch06-core</module>
+        <module>ch07-web</module>
     </modules>
 
     <build>
