@@ -13,12 +13,12 @@
     <description>《JavaEE开发的颠覆者：Spring Boot实战》学习项目源码</description>
 
     <modules>
-        <module>ch1-base</module>
-        <module>ch2-usual</module>
-        <module>ch3-higher</module>
-        <module>ch4-mvc</module>
-        <module>ch5-boot</module>
-        <module>ch6-core</module>
+        <module>ch01-base</module>
+        <module>ch02-usual</module>
+        <module>ch03-higher</module>
+        <module>ch04-mvc</module>
+        <module>ch05-boot</module>
+        <module>ch06-core</module>
     </modules>
 
     <build>
