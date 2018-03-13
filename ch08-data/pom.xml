@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <parent>
+        <artifactId>study-boot1</artifactId>
+        <groupId>com.zccoder</groupId>
+        <version>1.0.0-SNAPSHOT</version>
+    </parent>
+
+    <artifactId>ch08-data</artifactId>
+    <packaging>pom</packaging>
+
+    <modules>
+        <module>ch08-data-jpa</module>
+        <module>ch08-data-rest</module>
+        <module>ch08-data-transaction</module>
+        <module>ch08-data-cache</module>
+        <module>ch08-data-mongodb</module>
+        <module>ch08-data-redis</module>
+    </modules>
+
+</project>

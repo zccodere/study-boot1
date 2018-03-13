@@ -47,3 +47,10 @@ Spring Boot 快速搭建、入口类和@SpringBootApplication、定制Banner、S
 <p>
 Thymeleaf 模版引擎、WebSocket、基于 Bootstrap 和 AngularJS 的现代 Web 应用
 </p>
+
+### 2017-2017040701：08-ch08-data<br>
+第八章《Spring Boot 的数据访问》学习源码
+<p>
+Spring Data JPA、Spring Data REST、声明式事务、Srping Boot 缓存、
+Spring Boot 访问 MongoDB、Spring Boot 访问 Redis
+</p>
