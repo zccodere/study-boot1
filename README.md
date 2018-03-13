@@ -67,3 +67,9 @@ Spring Boot 集成 RabbitMQ、Spring Integration 快速入门
 <p>
 基于 Docker 部署、Spring Boot 的测试
 </p>
+
+### 2017-2017101201：11-ch11-monitor<br>
+第十一章《应用监控》学习源码
+<p>
+Actuator 应用监控、通过 SSH 监控和管理应用
+</p>
