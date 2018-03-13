@@ -21,6 +21,7 @@
         <module>ch06-core</module>
         <module>ch07-web</module>
         <module>ch08-data</module>
+        <module>ch09-enterprise</module>
     </modules>
 
     <build>

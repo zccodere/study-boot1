@@ -54,3 +54,10 @@ Thymeleaf 模版引擎、WebSocket、基于 Bootstrap 和 AngularJS 的现代 We
 Spring Data JPA、Spring Data REST、声明式事务、Srping Boot 缓存、
 Spring Boot 访问 MongoDB、Spring Boot 访问 Redis
 </p>
+
+### 2017-2017092201：09-ch09-enterprise<br>
+第九章《Spring Boot 企业级开发》学习源码
+<p>
+Spring Security 快速入门、Spring Batch 快速入门、Spring Boot 集成 ActiveMQ、
+Spring Boot 集成 RabbitMQ、Spring Integration 快速入门
+</p>
