@@ -61,3 +61,9 @@ Spring Boot 访问 MongoDB、Spring Boot 访问 Redis
 Spring Security 快速入门、Spring Batch 快速入门、Spring Boot 集成 ActiveMQ、
 Spring Boot 集成 RabbitMQ、Spring Integration 快速入门
 </p>
+
+### 2017-2017101001：10-ch10-deploy<br>
+第十章《Spring Boot 开发部署与测试》学习源码
+<p>
+基于 Docker 部署、Spring Boot 的测试
+</p>

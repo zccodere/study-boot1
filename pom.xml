@@ -22,6 +22,7 @@
         <module>ch07-web</module>
         <module>ch08-data</module>
         <module>ch09-enterprise</module>
+        <module>ch10-deploy</module>
     </modules>
 
     <build>
