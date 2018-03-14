@@ -1,8 +1,6 @@
 # 简介 
 
-《JavaEE开发的颠覆者：Spring Boot实战》学习项目源码
-
-// TODO 重新组织源码 2018/03/30前完成
+《JavaEE 开发的颠覆者：Spring Boot 实战》学习项目源码
 
 # 目录 
 
@@ -72,4 +70,10 @@ Spring Boot 集成 RabbitMQ、Spring Integration 快速入门
 第十一章《应用监控》学习源码
 <p>
 Actuator 应用监控、通过 SSH 监控和管理应用
+</p>
+
+### 2017-2017101401：12-ch12-cloud<br>
+第十二章《分布式系统开发》学习源码
+<p>
+SpringCloud快速入门
 </p>

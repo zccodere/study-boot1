@@ -24,6 +24,7 @@
         <module>ch09-enterprise</module>
         <module>ch10-deploy</module>
         <module>ch11-monitor</module>
+        <module>ch12-cloud</module>
     </modules>
 
     <build>
