@@ -75,5 +75,5 @@ Actuator 应用监控、通过 SSH 监控和管理应用
 ### 2017-2017101401：12-ch12-cloud<br>
 第十二章《分布式系统开发》学习源码
 <p>
-SpringCloud快速入门
+Spring Cloud 快速入门
 </p>
